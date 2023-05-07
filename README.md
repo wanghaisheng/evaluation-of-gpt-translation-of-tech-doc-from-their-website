@@ -39,6 +39,9 @@ https://github.com/rustlang-cn/Rustt
 4. choose popular book in english and chinese 
 
 validate gpt result with existing human translation
+
 1.azure gpt
+
 2.openai gpt 3 4 
+
 3. wechat translation
